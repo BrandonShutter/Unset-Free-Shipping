@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Plugin Name: Remove Woocommerce Free Shipping
+ * Plugin Name: Unset Free Shipping
  * Plugin URI: http://brandonshutter.com
  * Description: Unsets the Free Shipping Module
  * Author: Brandon Shutter
