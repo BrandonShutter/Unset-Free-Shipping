@@ -1,4 +1,8 @@
 {
     "name": "shutter/unset-free-shipping",
-    "description": "WordPress Plugin that unsets WooCommerce's free shipping."
+    "description": "WordPress Plugin that unsets WooCommerce's free shipping.",
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "~1.0.12"
+    }
 }
